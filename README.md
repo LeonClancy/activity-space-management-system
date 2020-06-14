@@ -10,6 +10,8 @@
  
  ## Installation
  ```shell script
+npm install 
+npm run dev
 composer install
 php artisan migrate
 php artisan storage:link
